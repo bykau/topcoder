@@ -1,5 +1,3 @@
-package math;
-
 public class Refactoring {
 
 	public static int refactor(int n) {

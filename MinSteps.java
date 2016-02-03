@@ -1,5 +1,3 @@
-package dp;
-
 public class MinSteps {
 	/* Integer.MAX_VALUE means not reachable, 
 	length >= 2 */

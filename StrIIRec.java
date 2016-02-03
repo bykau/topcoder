@@ -1,5 +1,3 @@
-package dp;
-
 public class StrIIRec {
 	public String recovstr(int n, int minInv, String minStr) {
 		char[] letters = new char[n];

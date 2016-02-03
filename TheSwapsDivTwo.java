@@ -1,4 +1,3 @@
-
 public class TheSwapsDivTwo {
 	public int find (int[] sequence) {
 		int N = sequence.length;

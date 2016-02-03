@@ -1,5 +1,3 @@
-package string;
-
 public class WolfDelaymaster {
 	
 	public static String check(String str){

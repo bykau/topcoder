@@ -1,5 +1,3 @@
-package tree;
-
 public class PermissionTree {
 
 	public int[] findHome(String[] folders, String[] users) {

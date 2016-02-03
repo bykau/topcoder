@@ -1,5 +1,3 @@
-package search;
-
 public class SortEstimate {
 	public double howMany(int c, int time) {
 		return search(1, 2000000000, c, time);

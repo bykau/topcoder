@@ -1,5 +1,3 @@
-package dp;
-
 public class PalindromePath {
 
 	public int shortestLength(int n, int[] a, int[] b, String c) {

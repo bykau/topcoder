@@ -1,5 +1,3 @@
-package dp;
-
 class QuickSums {
 
 	public static int minSums(String numbers, int sum){

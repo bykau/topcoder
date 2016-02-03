@@ -1,5 +1,3 @@
-package dp;
-
 class ZigZag{
 	public static int longestZigZag(int[] sequence){
 		int N = sequence.length;
