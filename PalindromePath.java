@@ -1,3 +1,9 @@
+/**
+ * SRM 677 Div 2 Level 3
+ * 
+ * @author bykau
+ *
+ */
 public class PalindromePath {
 
 	public int shortestLength(int n, int[] a, int[] b, String c) {
